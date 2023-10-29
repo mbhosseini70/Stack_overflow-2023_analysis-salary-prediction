@@ -1,6 +1,6 @@
 # Stack_overflow-2023_analysis-salary-prediction
 
-To Explore Interactive Visualizations which Designed by with Plotly: Access the Kaggle Notebook [Here]([https://www.kaggle.com/code/mbhosseini70/stack-overflow-2023-salary-prediction]):
+To Explore Interactive Visualizations which Designed by with Plotly: Access the Kaggle Notebook [Here](https://www.kaggle.com/code/mbhosseini70/stack-overflow-2023-salary-prediction).
 
 
 [](url)
