@@ -1,6 +1,9 @@
 # Stack_overflow-2023_analysis-salary-prediction
 
+To Explore Interactive Visualizations which Designed by with Plotly: Access the Kaggle Notebook [Here]([url](https://www.kaggle.com/code/mbhosseini70/stack-overflow-2023-salary-prediction)):
 
+
+[](url)
 The primary objective of this project is to conduct a comprehensive data analysis on a selected column from the Stack Overflow Developer Survey 2023 dataset, extracting valuable insights from the data.
 
 Additionally, I aim to develop a predictive model for determining developer salaries. This endeavor will facilitate a deeper understanding of the key factors influencing developer salaries.
